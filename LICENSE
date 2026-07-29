@@ -1,0 +1,55 @@
+本项目采用「双许可」：代码与内容分别授权。
+This project is dual-licensed: code and content are licensed separately.
+
+────────────────────────────────────────────────────────
+1. 代码 · Code
+────────────────────────────────────────────────────────
+适用范围：tools/ 目录下的全部脚本、site/index.html 中的 HTML/CSS/JavaScript 实现
+Applies to: all scripts in tools/, and the HTML/CSS/JavaScript in site/index.html
+
+许可协议：MIT License —— 详见 LICENSE-CODE.txt
+License: MIT — see LICENSE-CODE.txt
+
+
+────────────────────────────────────────────────────────
+2. 内容 · Content
+────────────────────────────────────────────────────────
+适用范围：景点描述文字、行程建议、人物小传、俄语译文、
+          docs/ 目录下的全部文档、青岛景点坐标.csv 中的描述性字段
+Applies to: place descriptions, itinerary advice, historical notes,
+            Russian translations, all documents in docs/,
+            and descriptive fields in 青岛景点坐标.csv
+
+许可协议：知识共享 署名 4.0 国际 (CC BY 4.0)
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/deed.zh
+
+您可以自由地：
+  · 共享 —— 在任何媒介以任何形式复制、发行本作品
+  · 演绎 —— 修改、转换或以本作品为基础进行创作
+  · 用于任何目的，包括商业目的
+
+惟须遵守下列条件：
+  · 署名 —— 您必须给出适当的署名，提供指向本许可协议的链接，
+            同时标明是否（对原作）作了修改。
+
+推荐的署名格式：
+  内容来自「挑食地图 · 青岛」(Trip à la carte) by kaichengkou
+  https://github.com/kaichengkou/trip-a-la-carte
+  依据 CC BY 4.0 授权使用
+
+Suggested attribution:
+  Content from "挑食地图 · 青岛" (Trip a la carte) by kaichengkou
+  https://github.com/kaichengkou/trip-a-la-carte
+  Licensed under CC BY 4.0
+
+
+────────────────────────────────────────────────────────
+3. 第三方资源 · Third-party
+────────────────────────────────────────────────────────
+· Leaflet 1.9.4 —— BSD-2-Clause，版权归 Vladimir Agafonkin 及贡献者所有
+  版权声明已完整保留于 site/index.html 内联代码中。
+
+· 地图瓦片 —— 由高德地图（AutoNavi）提供，版权归高德所有。
+  本项目不包含、不缓存、不再分发任何瓦片数据，仅在运行时由用户浏览器请求。
+  Map tiles © AutoNavi. Not redistributed by this project.
