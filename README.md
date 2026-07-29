@@ -1,4 +1,4 @@
-# 挑食地图 · 青岛
+# 挑食地图
 
 ### Trip à la carte — 像点菜一样规划行程
 
@@ -79,7 +79,7 @@ cd tools && python3 build_ui.py
 
 请注明出处，推荐格式：
 
-> 内容来自「挑食地图 · 青岛」by kaichengkou
+> 内容来自「挑食地图」by kaichengkou
 > https://github.com/kaichengkou/trip-a-la-carte　依据 CC BY 4.0 授权使用
 
 修改后再发布也可以，但请标明「已作修改」。完整条款见 [LICENSE](LICENSE)。
